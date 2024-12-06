@@ -14,7 +14,7 @@
     "clean": "rimraf dist coverage"
   },
   "dependencies": {
-    "@atproto/api": "^0.13.4",
+    "@atproto/api": "^0.13.16",
     "@atproto/common": "^0.4.1",
     "@atproto/identity": "^0.4.0",
     "@atproto/lexicon": "^0.4.2",
